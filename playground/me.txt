@@ -1,0 +1,5 @@
+{{#user}}
+Name: Jaypal Koli
+Skills: HTML, CSS, JS, Ractjs, Sql, MOnogoDb, Java, CPP
+Email: kolijaypal77@gmail.com
+{{/user}}
